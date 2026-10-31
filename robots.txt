@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hafezyquran.xyz/sitemap.xml
